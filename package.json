@@ -33,7 +33,7 @@
     "xhr2-cookies": "1.1.0"
   },
   "devDependencies": {
-    "mocha": "9.0.1",
+    "mocha": "10.1.0",
     "standard": "16.0.3"
   }
 }
